@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "leakr"]
+	path = leakr
+	url = https://github.com/cherylisabella/leakr
 [submodule "vangogh"]
 	path = vangogh
 	url = https://github.com/cherylisabella/vangogh
