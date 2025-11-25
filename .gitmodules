@@ -5,6 +5,9 @@
 [submodule "leakr"]
 	path = leakr
 	url = https://github.com/cherylisabella/leakr
+[submodule "nomisdata"]
+	path = nomisdata
+	url = https://github.com/cherylisabella/nomisdata
 [submodule "vangogh"]
 	path = vangogh
 	url = https://github.com/cherylisabella/vangogh
