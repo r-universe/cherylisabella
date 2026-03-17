@@ -11,3 +11,6 @@
 [submodule "vangogh"]
 	path = vangogh
 	url = https://github.com/cherylisabella/vangogh
+[submodule "widr"]
+	path = widr
+	url = https://github.com/cherylisabella/widr
